@@ -631,13 +631,13 @@ body {
   top: 0;
   left: 0;
   transform: translateY(-100%);
-  background: #ffffff;
+  background: #a52020;
   width: 100%;
 }
 
 .benefits__cards {
-display: grid;
-/* !!!!!! */
-grid-template-columns: 1fr 1fr 1fr;
-column-gap: 55px;
+  display: grid;
+  /* !!!!!! */
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 55px;
 }
